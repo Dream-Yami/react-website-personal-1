@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+.page{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2579787-085f-4ca1-92b2-21ea30bc8a21/de78wz6-8306dd9f-52f7-4ea1-8c44-afdf53a3fab5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyNTc5Nzg3LTA4NWYtNGNhMS05MmIyLTIxZWEzMGJjOGEyMVwvZGU3OHd6Ni04MzA2ZGQ5Zi01MmY3LTRlYTEtOGM0NC1hZmRmNTNhM2ZhYjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RmEMXd3wpE8MyEt_jU4f05Dgif-o5ojHXa0Scvco0gU);
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.btn{
+    background-color: rebeccapurple;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 5vw;
+    color: white;
+    outline: 0;
+    cursor: pointer;
+    box-shadow: 0px 2px 2px lightgray;
+    transition: ease background-color 250ms;
+}
+
+.content{
+    text-align: center;
+    border: 1px red;
+    color: white;
+    height: 00vh;
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+}

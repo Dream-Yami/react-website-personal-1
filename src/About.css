@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+
+.about-page{
+    background-image: url(https://e0.pxfuel.com/wallpapers/1004/119/desktop-wallpaper-oneshot.jpg);
+    align-self: flex-start;
+    background-position: left;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.about-content{
+    white-space: pre-line;
+    border: 1px red;
+    color: white;
+    height: flex;
+    display: flex;
+    text-align: left;
+    align-self: stretch;
+    justify-content: auto;
+    padding-top: 10%;
+    padding-left: 50%;
+    padding-right: 5%;
+    flex-direction: column;
+    width: flex;
+    margin: 0 auto;
+}
